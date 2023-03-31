@@ -6,6 +6,9 @@ Flutter listview country with flag and capital name project
 
 This project is a starting point for a Flutter application.
 
+## Screenshots
+<img src="/flags_project.png" height="400px"/> <img src="/screenshots/en_2.png" height="400px"/>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
